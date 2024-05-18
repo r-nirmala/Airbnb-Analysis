@@ -18,7 +18,7 @@ Plotly
 Tableau
 
 ### Approach: 
-1. MongoDB Connection and Data Retrieval: Establishing a connection to the MongoDB Atlas database and retrieve the Airbnb dataset. 
+1. Data Retrieval: Retrieve the Airbnb dataset from MongoDB or other sources.
 2. Data Cleaning and Preparation: Cleaning the Airbnb dataset by handling missing values, removing duplicates, and transforming data types as necessary. Preparing the dataset for EDA and visualization tasks.
 3. Geospatial Visualization: Developing a streamlit web application that utilizes the geospatial data from the Airbnb dataset to create interactive maps. 
 4. Price Analysis and Visualization: Using the cleaned data to analyze and visualize how prices vary across different locations, property types, and seasons. Creating dynamic plots and charts that enable users to explore price trends.
